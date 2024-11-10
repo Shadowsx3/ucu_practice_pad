@@ -1,4 +1,4 @@
 .idea
-
+.venv
 /notebooks/Assignment2.ipynb
 /main.py
